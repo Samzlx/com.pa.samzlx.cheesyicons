@@ -14,3 +14,4 @@ This mod will replace some of your standard icons with cheese-full icons!
     <td><img src="https://github.com/Samzlx/com.pa.samzlx.cheesyicons/blob/master/ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_commander.png?raw=true" alt="ComIcon"></img></td>
   </tr>
 </table>
+![](https://github.com/Samzlx/com.pa.samzlx.cheesyicons/blob/master/ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_commander.png?raw=true)
