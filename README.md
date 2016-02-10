@@ -10,7 +10,7 @@ This mod will replace some of your standard icons with cheese-full icons!
 <h5>Icons: </h5>
 <table>
   <tr>
-    <td> Commander </td>
-    <td> <img src="com.pa.samzlx.cheesyicons/ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_commander.png"></img></td>
+    <td>Commander</td>
+    <td><img src="https://github.com/Samzlx/com.pa.samzlx.cheesyicons/ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_commander.png"></img></td>
   </tr>
 </table>
