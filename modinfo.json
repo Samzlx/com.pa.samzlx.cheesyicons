@@ -1,0 +1,20 @@
+{
+  "enabled": true,
+  "context": "client",
+  "identifier": "com.pa.samzlx.cheesyicons",
+  "display_name": "Strategic cheesy icons",
+  "description": "Make your icons have a little cheese",
+  "author": "samzlx",
+  "version": "1.0.0",
+  "build": "89755",
+  "date": "2016/2/10",
+  "signature": "not yet implemented",
+  "category": [
+        "in-game",
+        "client-mod",
+        "Strategic-icons"
+    ],
+  "forum": "",
+  "icon": "http://i.imgur.com/PYSztFZ.png",
+  "priority": 100
+}
