@@ -1,14 +1,9 @@
 # com.pa.samzlx.kappacommander
-<h3>Strategic Kappa Icon - Commander</h3>
+<h3>Strategic Cheesy icons</h3>
 
-<a href="https://forums.uberent.com/threads/rel-client-strategic-kappa-icon-commander.71368/">Forum page</a>
+<a href="https://github.com/Samzlx/com.pa.samzlx.cheesyicons">Forum page *insert later*</a>
 <br>
-This mod will replace your standard commander icon with Kappa commander icon.
+This mod will replace some of your standard icons with cheese-full icons!
 <br>
-<img src="http://i.imgur.com/QB78Nq9.png" alt="KappaI"></img>
-<img src="http://i.imgur.com/y4Hpm2n.png" alt="Kappas"></img>
+<img src="http://i.imgur.com/QB78Nq9.png" alt="CheeseI"></img>
 <br>
-<h5>Features in latest version (v1.1.1): </h5>
-<img src="http://i.imgur.com/p4fWGs7.gif" alt="KappaP"></img>
-<br>
-Your commander goes KappaPride of Rainbows when you select it.
