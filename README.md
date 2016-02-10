@@ -1,4 +1,4 @@
-# com.pa.samzlx.kappacommander
+# com.pa.samzlx.cheesyicons
 <h3>Strategic Cheesy icons</h3>
 
 <a href="https://github.com/Samzlx/com.pa.samzlx.cheesyicons">Forum page \*insert later\*</a>
