@@ -10,7 +10,7 @@ This mod will replace some of your standard icons with cheese-full icons!
 <h5>Icons: </h5>
 <table>
   <tr>
-    <td> Commander: </td>
-    <td> *picture* </td>
+    <td> Commander </td>
+    <td> **picture** </td>
   </tr>
 </table>
