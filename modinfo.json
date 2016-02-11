@@ -5,9 +5,9 @@
   "display_name": "Strategic Cheesy icons",
   "description": "Make your icons have a little cheese! (More icons will be added)",
   "author": "samzlx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "build": "89755",
-  "date": "2016/2/10",
+  "date": "2016/2/11",
   "signature": "not yet implemented",
   "category": [
         "in-game",
@@ -16,5 +16,5 @@
     ],
   "forum": "https://github.com/Samzlx/com.pa.samzlx.cheesyicons",
   "icon": "http://i.imgur.com/PYSztFZ.png",
-  "priority": 100
+  "priority": 99
 }
