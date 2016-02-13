@@ -14,16 +14,16 @@ This mod will replace some of your standard icons with cheese-full icons!
     <td><img src="https://github.com/Samzlx/com.pa.samzlx.cheesyicons/blob/master/ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_commander.png"></img></td>
   </tr>
   <tr>
+    <td>Atlas</td>
+    <td><img src="https://github.com/Samzlx/com.pa.samzlx.cheesyicons/blob/master/ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_titan_bot.png"></img></td>
+  </tr>
+  <tr>
     <td>Ares</td>
     <td><img src="https://github.com/Samzlx/com.pa.samzlx.cheesyicons/blob/master/ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_titan_vehicle.png"></img></td>
   </tr>
   <tr>
     <td>Zeus</td>
     <td><img src="https://github.com/Samzlx/com.pa.samzlx.cheesyicons/blob/master/ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_titan_air.png"></img></td>
-  </tr>
-  <tr>
-    <td>Atlas</td>
-    <td><img src="https://github.com/Samzlx/com.pa.samzlx.cheesyicons/blob/master/ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_titan_bot.png"></img></td>
   </tr>
   <tr>
     <td>Atlas</td>
