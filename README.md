@@ -37,5 +37,9 @@ This mod will replace some of your standard icons with cheese-full icons!
     <td>Locust</td>
     <td><img src="ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_bot_nanoswarm.png"></img></td>
   </tr>
+  <tr>
+    <td>Mine</td>
+    <td><img src="ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_land_mine.png"></img></td>
+  </tr>
 </table>
 
