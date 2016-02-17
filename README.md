@@ -1,7 +1,7 @@
 # com.pa.samzlx.cheesyicons
 <h3>Strategic Cheesy icons</h3>
 
-<a href="https://github.com/Samzlx/com.pa.samzlx.cheesyicons">Forum page \*insert later\*</a>
+<a href="https://forums.uberent.com/threads/rel-client-strategic-cheesy-icons.71411/">Forum link</a>
 <br>
 This mod will replace some of your standard icons with cheese-full icons!
 <br>
