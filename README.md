@@ -7,6 +7,10 @@ This mod will replace some of your standard icons with cheese-full icons!
 <br>
 <img src="http://i.imgur.com/PYSztFZ.png" alt="CheeseIcon">Cheese!</img>
 <br>
+<h5>Update 1.1.0:</h5>
+Locust has pacman animation! (Doesn't work if another mod<sup>1</sup> overrides shader files!)
+<font size="6">1. e.g. Kappa Commander icon doesn't support yet.</font>
+<br>
 <h5>Icons (so far): </h5>
 <table>
   <tr>
