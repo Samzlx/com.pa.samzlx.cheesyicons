@@ -28,8 +28,8 @@ void main()
 		float alpha = texel.a;
 		
         if (v_SelectedState > 0 && texel.b > 0.1 && texel.b < 0.15) {
-			float x = v_ColorSecondary.x - 0.55;
-			float y = v_ColorSecondary.y - 0.50;
+			float x = v_ColorSecondary.x - 0.54;
+			float y = v_ColorSecondary.y - 0.49;
 			float t = abs(y / (sin(Time.x*3)*1.5));
 			if( x > 0 && x > t ){
 				alpha = 0.0;
