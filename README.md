@@ -9,7 +9,7 @@ This mod will replace some of your standard icons with cheese-full icons!
 <br>
 <h5>Update 1.1.0:</h5>
 Locust has pacman animation! (Doesn't work if another mod<sup>1</sup> overrides shader files!) <br>
-<h9>1. e.g. Kappa Commander icon doesn't support yet.</h9>
+<h7>1. e.g. Kappa Commander icon doesn't support yet.</h7>
 <br>
 <h6>Icons (so far): </h6>
 <table>
